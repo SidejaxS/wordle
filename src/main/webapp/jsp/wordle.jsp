@@ -30,6 +30,7 @@
 		  text-align: center;
 		  margin-top: 20px;
 		  margin-bottom: 50px;
+		 padding-left: 5%;
 		}
 		h2 {
 			font-size: 100px;
@@ -66,8 +67,8 @@
 	rel="stylesheet">
 </head>
 <body style="background-color: #F5F5F5; font-family: Arial, sans-serif;">
-	
-	<a style="text-align: right; font-size: 18px; color: blue; margin-right: 10px;">Intentos restantes: ${Attempts}</a>
+	<br>
+	<a style=" text-align: right; font-size: 18px; color: blue; margin-left: 10px;">  Intentos restantes: ${Attempts}</a>
 	<h1 style="font-size: 90px; text-align: center; margin-top: 50px; margin-bottom: 50px;">Wordle</h1>
 	<c:if test="${Attempts > 0}">
 		<form style="text-align: center;" action="/check" method="post">
