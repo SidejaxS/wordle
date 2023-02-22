@@ -40,23 +40,28 @@ El programa está escrito en Java y usa el framework Spring para manejar la lóg
 The program is written on Java and uses the Spring framework to administer the logic of the program.
 
 La clase `PalabraPorLetras` representa una letra a adivinar y su posición. La clase `IPalabraRepo` define la interfaz para un repositorio de palabras y la clase `PalabraRepo` implementa esta interfaz utilizando una lista de palabras predefinidas.
+
 The class `PalabraPorLetras` represents a word to guess and its position. The class `IPalabraRepo` defines the interface for a words repository and the class `PalabraRepo` implements that interface using a list of words predefined.
 
 La clase `PalabrasService` maneja la lógica principal del juego. Utiliza el repositorio de palabras para verificar las adivinanzas del usuario y mantiene un registro de intentos anteriores.
+
 The class `PalabrasService` handles the main logic of the game. Uses the repository of word to verify the guessings of the user and has a log of the previous attempts.
 
 ## Cómo probar el código // How to check the code
 
 El código incluye un conjunto de pruebas unitarias escritas utilizando JUnit 5. Estas pruebas verifican el comportamiento de la clase `PalabrasService` en una variedad de situaciones.
+
 The code includes some unitary tests written on JUnit 5. These tests verify how the class `PalabrasService` works on a variety of situations.
 
 Para ejecutar las pruebas, simplemente ejecute el archivo `PalabrasServiceTest.java`. Para poder comprobar los tests has de tener la dependencia de JUnit instalada en el equipo.
+
 To execute the tests, just run the file `PalabrasServiceTest.java`. To check the tests you must have the JUnit dependency installed on the system.
 
 
 ## Autores // Autors
 
 Este proyecto fue desarrollado por [Javier Burillo](https://github.com/SaijaxS).
+
 This proyect was developed by [Javier Burillo](https://github.com/SaijaxS).
 
 ![plot](./images/logo.png)
