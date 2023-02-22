@@ -14,9 +14,9 @@ Después de cada intento, recibirá una lista de letras que adivinó correctamen
 
 Si adivinas la palabra en el numero de intentos acorde a la dificultad o menos, ¡gana el juego! De lo contrario, pierdes.
 
-![plot](./images/derrota.png)
-
 ![plot](./images/victoria.png)
+
+![plot](./images/derrota.png)
 
 En la pantalla de victoria puedes usar el buscador que aparece en la pantalla de victoria para ver los intentos realizados previamente.
 
