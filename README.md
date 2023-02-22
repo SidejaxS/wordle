@@ -6,10 +6,10 @@ Wordle is a riddle games where you try and guess a word and with each attempt yo
 
 ## Cómo jugar // How to play
 
-Para comenzar, ejecute el archivo `Wordle.java`, abra en su navegador una pestaña y escriba localhost:8080/ . El programa le pedirá que ingrese una palabra de diferentes longitudes dependiendo de la dificultad que el usuario haya escogido en el archivo applicaction.properties bajo la carpeta main/resources, el usuario puede escoger entre 3 niveles de dificultad:Facil, con una palabra a adivinar de 3 letras de longitud y 20 intentos;
+Para comenzar, ejecute el archivo `Wordle.java`, abra en su navegador una pestaña y escriba localhost:8080/ . El programa le pedirá que ingrese una palabra de diferentes longitudes dependiendo de la dificultad que el usuario haya escogido en el archivo `applicaction.properties` bajo la carpeta `main/resources`, el usuario puede escoger entre 3 niveles de dificultad:Facil, con una palabra a adivinar de 3 letras de longitud y 20 intentos;
 medio, con una palabra a adivinar de 5 letras y 10 intentos; y dificil, con una palabra a adivinar de 8 letras y 5 intentos.
 
-To start playing, execute the file `Wordle.java`. open a new tab on your internet browser and type in localhost:8080/ . The program will ask for a word of different lengths depending on the dificulty choosen by the user on the archive   applicaction.properties under the route main/resources, the user can choose between 3 different difficulty levels: facil, with a word of 3 letters of length and 20 attempts; medio, with a 5 letters of length word and 10 attempts; and hard, with a 8 letters of lenght word and 5 attemps.
+To start playing, execute the file `Wordle.java`. open a new tab on your internet browser and type in localhost:8080/ . The program will ask for a word of different lengths depending on the dificulty choosen by the user on the archive `applicaction.properties` under the route `main/resources`, the user can choose between 3 different difficulty levels: facil, with a word of 3 letters of length and 20 attempts; medio, with a 5 letters of length word and 10 attempts; and hard, with a 8 letters of lenght word and 5 attemps.
 
 ![plot](./images/home.png)
 
