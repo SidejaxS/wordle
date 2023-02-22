@@ -12,7 +12,7 @@ medio, con una palabra a adivinar de 5 letras y 10 intentos; y dificil, con una 
 Después de cada intento, recibirá una lista de letras que adivinó correctamente y en qué posición. También recibirá una lista de letras que no están en la palabra.
 ![plot](./images/intento1.png)
 
-Si adivinas la palabra en el numero de intentos acorde a la dificultad o menos, ¡gana el juego! De lo contrario, pierdes.
+Si adivinas la palabra en el numero de intentos acorde a la dificultad o menos, ¡ganas el juego! De lo contrario, pierdes.
 
 ![plot](./images/victoria.png)
 
